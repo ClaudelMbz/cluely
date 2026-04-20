@@ -1,0 +1,8 @@
+{
+  "name": "EchoVoice",
+  "description": "Real-time voice-to-text transcription with a professional hardware-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
